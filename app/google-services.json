@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005230775437",
+    "project_id": "diploma-project-54643",
+    "storage_bucket": "diploma-project-54643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005230775437:android:42839a660eb2f2651d16c4",
+        "android_client_info": {
+          "package_name": "com.example.diplomaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauKP6mFUn5EcZ1Q0-FUMGYQTFP2stMxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
